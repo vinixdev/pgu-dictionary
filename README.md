@@ -61,10 +61,13 @@ A bilingual dictionary web application built with Django, supporting Persian (Fa
 ## Screenshots
 
 Below are screenshots of the application’s interface.
-- **Pages**:  
+- **Home page**:  
     ![Home page](screenshots/001.jpg)
+- **Result page**:
     ![Search a word](screenshots/002.jpg)
+- **Submit proposal**:
     ![Word not found](screenshots/003.jpg)
+- **Login page**
     ![Login page](screenshots/004.jpg)
 
 
