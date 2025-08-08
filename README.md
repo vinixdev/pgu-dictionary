@@ -66,9 +66,9 @@ Below are screenshots of the application’s interface.
 - **Result page**:
     ![Search a word](screenshots/002.jpg)
 - **Submit proposal**:
-    ![Word not found](screenshots/003.jpg)
+    ![Word not found](screenshots/004.jpg)
 - **Login page**
-    ![Login page](screenshots/004.jpg)
+    ![Login page](screenshots/003.jpg)
 
 
 ## License
